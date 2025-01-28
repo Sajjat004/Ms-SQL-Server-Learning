@@ -10,5 +10,7 @@ Learning Microsoft SQL Server Database from basics to advance.
 - [Constraints in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20Basics/Constraints%20in%20SQL%20Server.sql)
 
 ### SQL Server – Clauses
-- [Where Clause in SQL Server]()
-- [Order By Clause in SQL Server]()
+- [Where Clause in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20Clauses/Where%20Clause%20in%20SQL%20Server.sql)
+- [Order By Clause in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20Clauses/Order%20By%20Clause%20in%20SQL%20Server.sql)
+- [Top n Clause in SQL Server]()
+- [Group By Clause in SQL Server]()
