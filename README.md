@@ -12,5 +12,13 @@ Learning Microsoft SQL Server Database from basics to advance.
 ### SQL Server – Clauses
 - [Where Clause in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20Clauses/Where%20Clause%20in%20SQL%20Server.sql)
 - [Order By Clause in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20Clauses/Order%20By%20Clause%20in%20SQL%20Server.sql)
-- [Top n Clause in SQL Server]()
-- [Group By Clause in SQL Server]()
+- [Top n Clause in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20Clauses/Top%20n%20Clause%20in%20SQL%20Server.sql)
+- [Group By Clause in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20Clauses/Group%20By%20Clause%20in%20SQL%20Server.sql)
+- [Having Clause in SQL Server]()
+
+### SQL Server – Operators
+- [Operators in SQL Server]()
+- [Assignment Operator in SQL Server]()
+- Arithmetic Operators in SQL Server: [Theory](), [Code]()
+- Comparison Operators in SQL Server: [Theory](), [Code]()
+- Logical Operators in SQL Server: [Theory](), [Code]()
