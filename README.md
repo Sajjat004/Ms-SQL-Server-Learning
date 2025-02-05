@@ -30,8 +30,11 @@ Learning Microsoft SQL Server Database from basics to advance.
 - [INTERSECT Operator in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20Operators/INTERSECT%20Operator%20in%20SQL%20Server.sql)
 
 ### SQL Server – JOINS
-- [Inner Join in SQL Server]()
-- [Left Outer Join in SQL Server]()
-- [Right Outer Join in SQL Server]()
-- [Full Outer Join in SQL Server]()
-- [Cross Join in SQL Server]()
+- [Inner Join in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20JOINS/Inner%20Join%20in%20SQL%20Server.sql)
+- [Left Outer Join in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20JOINS/Left%20Outer%20Join%20in%20SQL%20Server.sql)
+- [Right Outer Join in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20JOINS/Right%20Outer%20Join%20in%20SQL%20Server.sql)
+- [Full Outer Join in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20JOINS/Full%20Outer%20Join%20in%20SQL%20Server.sql)
+- [Cross Join in SQL Server](https://github.com/Sajjat004/Ms-SQL-Server-Learning/blob/main/SQL%20Server%20%E2%80%93%20JOINS/Cross%20Join%20in%20SQL%20Server.sql)
+
+### User Defined Functions and Stored Procedure
+- [Stored Procedure in SQL Server]()
