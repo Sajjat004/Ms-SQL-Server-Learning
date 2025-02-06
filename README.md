@@ -38,3 +38,5 @@ Learning Microsoft SQL Server Database from basics to advance.
 
 ### User Defined Functions and Stored Procedure
 - [Stored Procedure in SQL Server]()
+- [SQL Server Stored Procedure Return Value]()
+- [SQL Server Temporary Stored Procedure]()
